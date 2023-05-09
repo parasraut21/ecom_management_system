@@ -1,0 +1,305 @@
+[
+    {
+        "pid":"1",
+        "CategoryName": "Dresses",
+        "name": "SIRIL Women's Knee length dress",
+        "img": "https://m.media-amazon.com/images/I/61WIPhJErzL._UY741_.jpg",
+   
+        "options": [
+            {
+                "S": "1000",
+                "M": "1000",
+                "L": "1000",
+                "XL": "1000"
+            }
+        ],
+        "description": "Dress Length: 42Inch, Dress Bust Size: 36Inch, Sleeve Length: 12Inch"
+    }, {
+        "pid":"2",
+        "CategoryName": "Dresses",
+        "name": "KERI PERRY",
+        "img": "https://m.media-amazon.com/images/I/81yH4BZ9uPL._AC_UL480_FMwebp_QL65_.jpg",
+   
+        "options": [
+            {
+                "S": "3900",
+                "M": "4900",
+                "L": "5000",
+                "XL": "5800"
+            }
+        ],
+        "description": "The blue color floral printed dress, round neck, 3/4 sleeves, and has flared silhoutte at the hem. Team it up with accessories to complete the look."
+    },
+    {
+        "pid":"3",
+        "CategoryName": "Dresses",
+        "name": "Floral print fit and flare dress",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+   
+        "options": [
+            {
+                "S": "1000",
+                "M": "1000",
+                "L": "1000",
+                "XL": "1000"
+            }
+        ],
+        "description": "The blue color floral printed dress, round neck, 3/4 sleeves, and has flared silhoutte at the hem. Team it up with accessories to complete the look."
+    },
+    {
+        "pid":"4",
+        "CategoryName": "Dresses",
+        "name": "Black Womens Long Dress",
+        "img": "https://media.boerandfitch.com/28112-large_default/black-womens-long-dress.jpg",
+    
+        "options": [
+            {
+                "S": "1500",
+                "M": "1500",
+                "L": "1500",
+                "XL": "1500"
+            }
+        ],
+        "description": "Solid Black Sleeveless Side Slit Long Dress "
+    },
+    {
+        "pid":"5",
+        "CategoryName": "Jeans & Bottoms",
+        "name": "Flared Gray Jeans",
+        "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/jean/b/p/p/26-kttladiesjeans669-kotty-original-imafuzrryqgubvdw-bb.jpeg?q=70",
+     
+        "options": [
+            {
+                "S": "919",
+                "M": "919",
+                "L": "919",
+                "XL": "919"
+            }
+        ],
+        "description": "Enjoy the flavors of true denim with this awesome pair of blue jeans from Kotty."
+    },
+    {
+        "pid":"6",
+        "CategoryName": "Jeans & Bottoms",
+        "name": "Denim for Ladies",
+        "img": "https://m.media-amazon.com/images/I/71UirJvbAgL._UY741_.jpg",
+     
+        "options": [
+            {
+                "S": "699",
+                "M": "799",
+                "L": "800",
+                "XL": "900"
+            }
+        ],
+        "description": "Women's High Waist Bell Bottom Denim for Ladies with Raw Edges"
+    },
+    {
+        "pid":"7",
+        "CategoryName": "Jeans & Bottoms",
+        "name": "Aadvi Enterprise",
+        "img": "https://m.media-amazon.com/images/I/71iN1-nhxEL._UX466_.jpg",
+     
+        "options": [
+            {
+                "S": "919",
+                "M": "919",
+                "L": "919",
+                "XL": "919"
+            }
+        ],
+        "description": "Women's 3 Button High-Waist Bell Bottom Jeans|High Waist Bell Bottom Denim for Ladies with Raw Edges"
+    },
+    {
+        "pid":"8",
+        "CategoryName": "Tops & Tees",
+        "name": "White floral",
+        "img": "https://images.streetstylestore.com/1/6/3/4/6/4/163464-sss_vertical.jpg",
+     
+        "options": [
+            {
+                "S": "539",
+                "M": "539",
+                "L": "539",
+                "XL": "539"
+            }
+        ],
+        "description": "Retro Pleasant floral printed Top"
+    },
+    {
+        "pid":"9",
+        "CategoryName": "Tops & Tees",
+        "name": "White Checked Shirt",
+        "img": "https://m.media-amazon.com/images/I/51EztyrOL-L._UX679_.jpg",
+      
+        "options": [
+            {
+                "S": "849",
+                "M": "849",
+                "L": "849",
+                "XL": "849"
+            }
+        ],
+        "description": "ROYALICA Women Black and White Checked Shirt with Heavy Black Inner"
+    },
+    {
+        "pid":"10",
+        "CategoryName": "Tops & Tees",
+        "name": "DHRUVI TRENDZ",
+        "img": "https://m.media-amazon.com/images/I/41PQQwGcQQL.jpg",
+      
+        "options": [
+            {
+                "S": "150",
+                "M": "249",
+                "L": "249",
+                "XL": "300"
+            }
+        ],
+        "description": "Women's Slub Rayon Casual Crop Top Shirts Print Top Basic Summer Women Tops"
+    },
+    {
+        "pid":"11",
+        "CategoryName": "Kurtas",
+        "name": "Black Kalamkari Cotton Kurta",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/t/j/tjori_tj-mk-212-14_2.jpg?rnd=20200526195200",
+      
+        "options": [
+            {
+                "S": "1913",
+                "M": "1913",
+                "L": "1913",
+                "XL": "1913"
+            }
+        ],
+        "description": "This black kurta by Tjori is crafted in cotton and features spaghetti straps."
+    },
+    {
+        "pid":"12",
+        "CategoryName": "Kurtas",
+        "name": "Women Parrot Green Floral Block Print Flared Kurta",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/2/9/297989dIND217-GRN_1.jpg?rnd=20200526195200",
+     
+        "options": [
+            {
+                "S": "880",
+                "M": "880",
+                "L": "880",
+                "XL": "880"
+            }
+        ],
+        "description": "Our Block Printed Parrot Green Rayon Kurta Features A Floral Block Print Straight-Fit Kurta With A Round Neckline."
+    },
+    {
+        "pid":"13",
+        "CategoryName": "Kurtas",
+        "name": "KIPEK",
+        "img": "https://m.media-amazon.com/images/I/61F2CZbyRWL._UY879_.jpg",
+     
+        "options": [
+            {
+                "S": "1000",
+                "M": "1000",
+                "L": "1100",
+                "XL": "1100"
+            }
+        ],
+        "description": "KIPEK Womens Rayon Block Print A-Line Kurta"
+    },
+    {
+        "pid":"14",
+        "CategoryName": "Sarees",
+        "name": "Organza Digital Print Contemporary Saree",
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7y2YuGJkjiwugLaNYr9o8zjffP8EPv3xYWLMNteaD_0xjf0WQBvPPHfZYVDEK-lE_Cc7q3ZsVWcLyQWxQD9GdzXpHVfLcU7n5gitLzvG7EcVzyDLD8o3L08bw5HNUbCaCzQ&usqp=CAc",
+       
+        "options": [
+            {
+                "S": "2086",
+                "M": "2086",
+                "L": "2086",
+                "XL": "2086"
+            }
+        ],
+        "description": "Rich look attire to give your a right choice for any party or function."
+    },
+    {
+        "pid":"15",
+        "CategoryName": "Sarees",
+        "name": "Black Sequin Georgette Saree With Unstitched Blouse",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/3/a303e90SAUS0021890_BLACK_1.jpg?rnd=20200526195200",
+   
+        "options": [
+            {
+                "S": "2993",
+                "M": "2993",
+                "L": "2993",
+                "XL": "2993"
+            }
+        ],
+        "description": "Sarees are a staple piece in every woman's closet and so is this one from Koskii."
+    },
+    {
+        "pid":"16",
+        "CategoryName": "Sarees",
+        "name": "Yashika Women's Georgette",
+        "img": "https://m.media-amazon.com/images/I/51vWm24m6tL._UY741_.jpg",
+   
+        "options": [
+            {
+                "S": "3000",
+                "M": "3000",
+                "L": "4000",
+                "XL": "4000"
+            }
+        ],
+        "description": "ight and Comfortable to Wear Best Gift for Your Loved Ones. "
+    },
+    {
+        "pid":"17",
+        "CategoryName": "New arrivals",
+        "name": "Twenty Dresses Blue I See You Pretty Top",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/b/8bae7dcNFTD_TWDR966_1.jpg?rnd=20200526195200",
+        
+        "options": [
+            {
+                "S": "798",
+                "M": "798",
+                "L": "798",
+                "XL": "798"
+            }
+        ],
+        "description": "Crafted in polyester crepe, this paisley printed crop top features an overlapping V neckline."
+    },
+    {
+        "pid":"18",
+        "CategoryName": "New arrivals",
+        "name": "Blue Floral Top, Palazzo And Shrug (Set of 3)",
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/l/b/lbl102ds11_1.jpg?rnd=20200526195200",
+        
+        "options": [
+            {
+                "S": "4400",
+                "M": "4400",
+                "L": "4400",
+                "XL": "4400"
+            }
+        ],
+        "description": "Stand out with this gorgeous and trendsetting crop top and palazzo set in a breezy ."
+    },
+    {
+        "pid":"19",
+        "CategoryName": "New arrivals",
+        "name": "NAINVISH Women",
+        "img": "https://m.media-amazon.com/images/I/71AZLdwsv0L._UX679_.jpg",
+        
+        "options": [
+            {
+                "S": "6000",
+                "M": "6000",
+                "L": "7000",
+                "XL": "7000"
+            }
+        ],
+        "description": "NAINVISH Women Light Orange Cotton Straight Kurti with Pant (SD099)"
+    }
+]
